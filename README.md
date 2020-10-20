@@ -17,7 +17,7 @@ The project is about showing up the places which i had viewed in ireland so far.
 
 * They images gives a breief about people who is intrested travell,can contact via EMAIL, NUMBER
 
-![](About.png=50x50)
+<img src="About.png" width="50" height="50">
 
 # CONTACT_FORM
 
