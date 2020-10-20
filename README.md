@@ -7,4 +7,4 @@ The project is about showing up the places which i had viewed in ireland so far.
 
 ## VISUALS OF PROJECT
 
-![]
+![]()
