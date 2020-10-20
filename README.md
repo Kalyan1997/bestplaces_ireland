@@ -1,2 +1,3 @@
 # bestplaces_ireland
-basic project by HTML,CSS
+project shows ous top 9 places in IRELAND
+
