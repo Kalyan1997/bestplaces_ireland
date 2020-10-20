@@ -7,15 +7,20 @@ The project is about showing up the places which i had viewed in ireland so far.
 
 ## VISUALS OF PROJECT
 
-*THEY ARE THREE SCHREEN SHOTS SHOWN TO GET AN OVERVIEW
+* THEY ARE THREE SCHREEN SHOTS SHOWN TO GET AN OVERVIEW
 
-  *About
-  *contact_menu
-  *main_page
-*They images gives a breief about people who is intrested travell,can contact via EMAIL, NUMBER
+  * About
+  * contact_menu
+  * main_page
+
+# ABOUT
+
+* They images gives a breief about people who is intrested travell,can contact via EMAIL, NUMBER
 
 ![](About.png)
 
-*Contact_slide shows the Registration form, If looking furuther step he/she can fill his details in form
+# CONTACT_FORM
+
+* Contact_slide shows the Registration form, If looking furuther step he/she can fill his details in form
 
 ![](contact_menu.png)
