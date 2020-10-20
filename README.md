@@ -17,10 +17,14 @@ The project is about showing up the places which i had viewed in ireland so far.
 
 * They images gives a breief about people who is intrested travell,can contact via EMAIL, NUMBER
 
-![](About.png)
+![](About.png=10x10)
 
 # CONTACT_FORM
 
 * Contact_slide shows the Registration form, If looking furuther step he/she can fill his details in form
 
 ![](contact_menu.png)
+
+# CONCLUSIN
+
+This project is  basic page by using the HTML & CSS from my learning.
